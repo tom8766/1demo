@@ -6,7 +6,7 @@ namespace csharpgitdemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! This is version 2");
         }
     }
 }
